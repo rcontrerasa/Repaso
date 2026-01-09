@@ -24,3 +24,5 @@ while true;do
 			exit ;;
 	esac
 done
+
+#script de prueba
