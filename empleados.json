@@ -1,0 +1,39 @@
+{
+    "empresa": "TechSolutions",
+    "departamentos": [
+        {
+            "nombre": "Desarrollo",
+            "empleados": [
+                {
+                    "id": 101,
+                    "nombre": "Ana López",
+                    "edad": 32,
+                    "puesto": "Desarrolladora Senior",
+                    "habilidades": ["Python", "Django", "SQL"],
+                    "activo": true
+                },
+                {
+                    "id": 102,
+                    "nombre": "Carlos Ruiz",
+                    "edad": 28,
+                    "puesto": "Desarrollador Junior",
+                    "habilidades": ["Java", "Spring"],
+                    "activo": true
+                }
+            ]
+        },
+        {
+            "nombre": "Soporte",
+            "empleados": [
+                {
+                    "id": 201,
+                    "nombre": "Marta Díaz",
+                    "edad": 35,
+                    "puesto": "Técnico de Soporte",
+                    "habilidades": ["Redes", "Windows", "Linux"],
+                    "activo": false
+                }
+            ]
+        }
+    ]
+}

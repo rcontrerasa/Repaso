@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventario>
+    <categoria nombre="Electrónicos">
+        <producto id="1001">
+            <nombre>Laptop HP</nombre>
+            <precio>899.99</precio>
+            <stock>15</stock>
+        </producto>
+        <producto id="1002">
+            <nombre>Tablet Samsung</nombre>
+            <precio>349.99</precio>
+            <stock>8</stock>
+        </producto>
+        <producto id="1003">
+            <nombre>Smartphone Motorola</nombre>
+            <precio>249.99</precio>
+            <stock>20</stock>
+        </producto>
+        <producto id="1004">
+            <nombre>Audífonos Sony</nombre>
+            <precio>129.99</precio>
+            <stock>30</stock>
+        </producto>
+        <producto id="1005">
+            <nombre>Smartwatch Garmin</nombre>
+            <precio>159.99</precio>
+            <stock>18</stock>
+        </producto>
+    </categoria>
+    <categoria nombre="Oficina">
+        <producto id="2001">
+            <nombre>Impresora Epson</nombre>
+            <precio>199.99</precio>
+            <stock>12</stock>
+        </producto>
+        <producto id="2002">
+            <nombre>Escritorio</nombre>
+            <precio>159.99</precio>
+            <stock>5</stock>
+        </producto>
+        <producto id="2003">
+            <nombre>Silla de Oficina</nombre>
+            <precio>89.99</precio>
+            <stock>22</stock>
+        </producto>
+        <producto id="2004">
+            <nombre>Monitor Dell</nombre>
+            <precio>229.99</precio>
+            <stock>10</stock>
+        </producto>
+        <producto id="2005">
+            <nombre>Teclado Mecánico</nombre>
+            <precio>89.99</precio>
+            <stock>25</stock>
+        </producto>
+    </categoria>
+</inventario>
